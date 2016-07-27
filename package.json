@@ -1,0 +1,11 @@
+{
+  "name": "scrumboard",
+  "version": "1.0.0",
+  "description": "This is a toy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
