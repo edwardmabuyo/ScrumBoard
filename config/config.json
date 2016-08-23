@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "mongo": {
+            "uri": "mongodb://devuser:Passw0rd@ds031975.mlab.com:31975/dev-scrumboard"
+        }
+    },
+    "qa": {
+        "mongo": {
+            "uri": "mongodb://devuser:Passw0rd@ds031975.mlab.com:31975/dev-scrumboard"
+        }
+    }
+}
